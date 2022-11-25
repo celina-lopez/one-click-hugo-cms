@@ -1,4 +1,5 @@
 baseurl = "/blog"
+canonifyurls = true
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
